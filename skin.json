@@ -3502,5 +3502,11 @@
     "author": "j4nDr01d",
     "image": "https://raw.githubusercontent.com/pass-with-high-score/Aneko-skin/main/asset/logo/sableye.png",
     "url": "https://github.com/pass-with-high-score/Aneko-skin/releases/download/skinzip/sableye.zip"
-  }
+  },
 ]
+{
+  "name": "Terebi-chan",
+  "package": "com.superbip20.terebichan",
+  "version": "1",
+  "author": "Superbip20",
+  "image": 
